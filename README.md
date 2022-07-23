@@ -1,10 +1,10 @@
 # Flutter-Open-Source-Project
-##flutter开源项目 （长期筹划中）
+## flutter开源项目 （长期筹划中）
 
 打算写一个基于Flutter支持Android与iOS平台的完整项目
 功能是越多越好：
 
-##希望实现多模块；
+## 希望实现多模块；
 
 使用瀑布流布局；
 
